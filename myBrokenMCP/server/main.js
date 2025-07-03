@@ -1,3 +1,4 @@
+import { StreamableHTTPClientTransport } from '@modelcontextprotocol/sdk/client/streamableHttp.js';
 import { Meteor } from 'meteor/meteor';
 import { LinksCollection } from '/imports/api/links';
 
