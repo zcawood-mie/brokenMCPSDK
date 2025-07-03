@@ -1,2 +1,2 @@
 Steps taken:
-1. 
+1. Ran ```meteor create myBrokenMCP```
